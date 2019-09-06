@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CF-MU904
+D UHF RFID Reader Module
+F http://www.chafon.com/Upload/ProductFile/CF-MU904.doc_170113154058.pdf
+$ENDCMP
+#
 $CMP HTRC11001T
 D HITAG RF Reader Device, SOIC-14
 K HITAG RFID
